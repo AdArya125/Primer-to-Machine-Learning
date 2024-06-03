@@ -1,5 +1,6 @@
 # Statistics for Machine Learning
-
+- Course on Statistics and Probablity:
+    https://www.khanacademy.org/math/statistics-probability
 ## 1. Descriptive Statistics
 
 ### 1.1 Continuous and Discrete Functions
