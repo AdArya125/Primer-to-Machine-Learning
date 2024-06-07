@@ -1,6 +1,6 @@
 # Machine-Learning---The-Journey
 This repository is my personal collection of topics and codes, that I learnt and will learn in the future in relation to the domain of data science and Machine Learning, This repository should be like a short reference guide to a lot of topics.
-Certainly, it makes sense to introduce statistics and model evaluation/validation earlier in the learning path as they are foundational concepts. Here is the revised and updated list with "Statistics for Machine Learning" and "Model Evaluation and Validation" sections moved up:
+Certainly, it makes sense to introduce statistics and model evaluation/validation earlier in the learning path as they are foundational concepts.
 
 The tentative list of topics I plan to cover here is as follows:
 
