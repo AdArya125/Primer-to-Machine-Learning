@@ -1,7 +1,14 @@
-# Statistics for Machine Learning
-- Course on Statistics and Probablity:
-    https://www.khanacademy.org/math/statistics-probability
-## 1. Descriptive Statistics
+# __Statistics for Machine Learning__
+<hr>
+<ul type='circle'> <li>Courses on Statistics and Probablity:
+  <ol>
+      <li><a href="https://www.khanacademy.org/math/statistics-probability">Khan Academy</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr">Crash Course - YouTube</a></li>
+  </ol></li>
+</ul>
+
+***
+# 1. Descriptive Statistics
 
 ### 1.1 Continuous and Discrete Functions
 
@@ -41,6 +48,8 @@
 - Performing normality tests (e.g., Shapiro-Wilk, Kolmogorov-Smirnov)
 - Visualizing results of normality tests
 
+<hr><hr>
+
 ## 2. Regression Analysis
 
 ### 2.1 Linear and Non-Linear Relationship with Regression
@@ -63,6 +72,8 @@
 
 - Calculating R-squared and adjusted R-squared
 - Evaluating model fit using goodness of fit metrics
+
+<hr><hr>
 
 ## 3. Inferential Statistics
 
@@ -96,3 +107,4 @@
 
 - Applying statistical tests on continuous and categorical data
 - Example scenarios and visualization of results
+<hr><hr>
