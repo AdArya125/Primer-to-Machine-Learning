@@ -1,4 +1,5 @@
-# __1. Statistics for Machine Learning__
+# **1. Statistics for Machine Learning**
+
 <hr>
 <ul type='circle'> <li>Courses on Statistics and Probablity:
   <ol>
@@ -7,7 +8,8 @@
   </ol></li>
 </ul>
 
-***
+---
+
 # 1.1 Descriptive Statistics
 
 ### 1.1.1 Continuous and Discrete Functions
@@ -58,17 +60,7 @@
 - Polynomial regression
 - Plotting and comparing linear vs. non-linear regression fits
 
-### 1.2.2 ANOVA (Analysis of Variance)
-
-- Performing one-way and two-way ANOVA
-- Visualizing ANOVA results with example data
-
-### 1.2.3 Homoscedasticity
-
-- Testing for homoscedasticity using residual plots
-- Visualizing homoscedasticity vs. heteroscedasticity
-
-### 1.2.4 Goodness of Fit
+### 1.2.2 Goodness of Fit
 
 - Calculating R-squared and adjusted R-squared
 - Evaluating model fit using goodness of fit metrics
