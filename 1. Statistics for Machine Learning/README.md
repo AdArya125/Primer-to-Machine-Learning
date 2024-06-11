@@ -65,6 +65,11 @@
 - Calculating R-squared and adjusted R-squared
 - Evaluating model fit using goodness of fit metrics
 
+### 1.2.3 Underfitting, Appropriate fit and Overfitting
+
+- Visualising the curves showing Underfitting, Appropriate fit and Overfitting
+- Showing fitness metrics of each model
+
 <hr><hr>
 
 ## 1.3. Inferential Statistics
