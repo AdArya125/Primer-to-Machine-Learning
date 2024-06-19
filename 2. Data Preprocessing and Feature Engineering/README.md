@@ -1,5 +1,6 @@
 # **2. Data Preprocessing and Feature Engineering**
 
+### <b>Must Read : </b><a href="https://medium.com/@chenycy/master-the-art-of-feature-engineering-and-feature-selection-e6e87f76f89b">Master the Art of Feature Engineering and Feature Selection</a>
 <hr>
 <ul type='circle'>
   <li>Courses on Data Preprocessing and Feature Engineering:
