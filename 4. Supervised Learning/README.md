@@ -47,43 +47,54 @@ Welcome to the Supervised Learning section of our repository! This folder contai
 - Methods for implementing Bayesian Regression
 <hr><hr>
 
-### 4.2 Classification
+## 4.2 Classification
 
-#### 4.2.1 Logistic Regression
+### 4.2.1 Logistic Regression
 
 - Explanation of Logistic Regression and its applications
 - Methods for implementing Logistic Regression
 
-#### 4.2.2 K-Nearest Neighbors (KNN)
+### 4.2.2 K-Nearest Neighbors (KNN)
 
 - Explanation of K-Nearest Neighbors and its scenarios
 - Methods for implementing K-Nearest Neighbors
 
-#### 4.2.3 Decision Tree Classifier
+### 4.2.3 Decision Tree Classifier
 
 - Explanation of Decision Tree Classifier and its applications
 - Methods for implementing Decision Tree Classifier
 
-#### 4.2.4 Random Forest Classifier
+### 4.2.4 Random Forest Classifier
 
 - Explanation of Random Forest Classifier and its benefits
 - Methods for implementing Random Forest Classifier
 
-#### 4.2.5 Support Vector Machines (SVM)
+### 4.2.5 Support Vector Machines (SVM)
 
 - Explanation of Support Vector Machines and its scenarios
 - Methods for implementing Support Vector Machines
 
-#### 4.2.6 Naive Bayes Classifier
+### 4.2.6 Naive Bayes Classifier
 
 - Explanation of Naive Bayes Classifier and its applications
 - Methods for implementing Naive Bayes Classifier
 
-#### 4.2.7 Gradient Boosting (XGBoost, LightGBM, CatBoost)
+### 4.2.7 Gradient Boosting (XGBoost, LightGBM, CatBoost)
 
 - Explanation of Gradient Boosting and its benefits
 - Overview of different Gradient Boosting libraries (XGBoost, LightGBM, CatBoost)
 - Methods for implementing Gradient Boosting algorithms
+
+### 4.2.8 Neural Networks
+
+- Explanation of Neural Networks including MLP, CNN, RNN and their applications in classification
+- Methods for implementing Neural Networks for classification tasks
+
+### 4.2.9 Ensemble Methods
+
+- Explanation of Ensemble Methods such as Bagging, Boosting, and Stacking in classification
+- Methods for implementing Ensemble Methods for improving classification performance
+
 <hr><hr>
 
 ---
