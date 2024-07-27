@@ -88,6 +88,12 @@ Welcome to the Unsupervised Learning section of our repository! This folder cont
 - Scenarios where the Eclat Algorithm is beneficial
 - Methods for implementing the Eclat Algorithm
 
+### 6.3.3 FP-Growth Algorithm
+
+- Explanation of the FP-Growth Algorithm
+- Benefits and scenarios for using the FP-Growth Algorithm
+- Methods for implementing the FP-Growth Algorithm
+
 ---
 
 This section aims to provide the necessary knowledge and tools to effectively explore and analyze data using unsupervised learning techniques, uncovering hidden patterns and insights.
