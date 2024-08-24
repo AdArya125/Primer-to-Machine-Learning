@@ -1,5 +1,6 @@
-# Machine-Learning---The-Journey
-This repository is my personal collection of topics and codes, that I learnt and will learn in the future in relation to the domain of data science and Machine Learning, This repository should be like a short reference guide to a lot of topics.
+# Primer to Machine Learning
+
+This repository is my personal project which is a collection of topics and codes, that I've learnt in the domain of data science and Machine Learning, This repository is planned like a roadmap to ML, and every topic is modelled like a short reference guide.
 
 The tentative list of topics I plan to cover here is as follows:
 
