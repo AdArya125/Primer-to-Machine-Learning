@@ -98,12 +98,6 @@ Welcome to the Reinforcement Learning section of our repository! This folder con
 - Benefits and use cases of applying Reinforcement Learning to CartPole
 - Methods for implementing a solution for CartPole
 
-#### 10.6.2 Atari Games
-
-- Explanation of using Reinforcement Learning in Atari Games
-- Applications and benefits of Reinforcement Learning in gaming
-- Methods for implementing Reinforcement Learning for Atari Games
-
 ---
 
 This section aims to provide the necessary knowledge and tools to effectively understand, develop, and apply reinforcement learning models to various tasks, enabling you to tackle a wide range of reinforcement learning challenges.
