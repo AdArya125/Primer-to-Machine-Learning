@@ -29,7 +29,7 @@ Welcome to the **Primer to Machine Learning** repository, a structured guide des
 - [t-Test, z-Test](./1.%20Statistics%20for%20Machine%20Learning/1.3%20Inferential%20Statistics/1.3.1%20t-Test%2C%20z-Test.ipynb)
 - [Hypothesis Testing](./1.%20Statistics%20for%20Machine%20Learning/1.3%20Inferential%20Statistics/1.3.2%20Hypothesis%20Testing.ipynb)
 - [Type I and Type II Errors](./1.%20Statistics%20for%20Machine%20Learning/1.3%20Inferential%20Statistics/1.3.3%20Type%20I%20and%20Type%20II%20Errors.ipynb)
-- [One-way and Two-way ANOVA](./1.%20Statistics%20for%20Machine%20Learning/1.3%20Inferential%20Statistics/1.3.4%20One-way%20ANOVA.ipynb)
+- [One-way ANOVA](./1.%20Statistics%20for%20Machine%20Learning/1.3%20Inferential%20Statistics/1.3.4%20One-way%20ANOVA.ipynb)
 - [Chi-Square Test](./1.%20Statistics%20for%20Machine%20Learning/1.3%20Inferential%20Statistics/1.3.5%20Chi-Square%20Test.ipynb)
 - [Implementation of Continuous and Categorical Data](./1.%20Statistics%20for%20Machine%20Learning/1.3%20Inferential%20Statistics/1.3.6%20Continuous%20and%20Categorical%20Data.ipynb)
 
@@ -61,7 +61,7 @@ Welcome to the **Primer to Machine Learning** repository, a structured guide des
 
 - [Principal Component Analysis (PCA)](./2.%20Data%20Preprocessing%20and%20Feature%20Engineering/2.4%20Dimensionality%20Reduction/2.4.1%20Principal%20Component%20Analysis.ipynb)
 - [t-Distributed Stochastic Neighbor Embedding (t-SNE)](./2.%20Data%20Preprocessing%20and%20Feature%20Engineering/2.4%20Dimensionality%20Reduction/2.4.2%20t-SNE%20.ipynb)
-- [Linear Discriminant Analysis (LDA)](<./2.%20Data%20Preprocessing%20and%20Feature%20Engineering/2.4%20Dimensionality%20Reduction/2.4.3%20Linear%20Discriminant%20Analysis%20(LDA).ipynb>)
+- [Linear Discriminant Analysis (LDA)](./2.%20Data%20Preprocessing%20and%20Feature%20Engineering/2.4%20Dimensionality%20Reduction/2.4.3%20Linear%20Discriminant%20Analysis%20(LDA).ipynb)
 
 ## [2.5 Outlier Detection and Treatment](./2.%20Data%20Preprocessing%20and%20Feature%20Engineering/2.5%20Outlier%20Detection%20and%20Treatment)
 
@@ -80,7 +80,7 @@ Welcome to the **Primer to Machine Learning** repository, a structured guide des
 ## [3.1 Gradient Descent](./3.%20Optimization/3.1%20Gradient%20Descent)
 
 - [Batch Gradient Descent](./3.%20Optimization/3.1%20Gradient%20Descent/3.1.1%20Batch%20Gradient%20Descent.ipynb)
-- [Stochastic Gradient Descent](<./3.%20Optimization/3.1%20Gradient%20Descent/3.1.2%20Stochastic%20Gradient%20Descent%20(SGD).ipynb>)
+- [Stochastic Gradient Descent](./3.%20Optimization/3.1%20Gradient%20Descent/3.1.2%20Stochastic%20Gradient%20Descent%20(SGD).ipynb)
 - [Mini-batch Gradient Descent](./3.%20Optimization/3.1%20Gradient%20Descent/3.1.3%20Mini-batch%20Gradient%20Descent.ipynb)
 
 ## [3.2 Advanced Optimization Algorithms](./3.%20Optimization/3.2%20Advanced%20Optimization%20Algorithms)
@@ -130,25 +130,25 @@ Welcome to the **Primer to Machine Learning** repository, a structured guide des
 
 - [Decision Tree Regression](./4.%20Supervised%20Learning/4.1%20Regression/4.1.3%20Tree-Based%20and%20Neighbor-Based%20Regression/4.1.3.1%20Decision%20Tree%20Regression.ipynb)
 - [Random Forest Regression](./4.%20Supervised%20Learning/4.1%20Regression/4.1.3%20Tree-Based%20and%20Neighbor-Based%20Regression/4.1.3.2%20Random%20Forest%20Regression.ipynb)
-- [K-Nearest Neighbors Regression (KNN)](<./4.%20Supervised%20Learning/4.1%20Regression/4.1.3%20Tree-Based%20and%20Neighbor-Based%20Regression/4.1.3.3%20K-Nearest%20Neighbors%20Regression%20(KNN).ipynb>)
+- [K-Nearest Neighbors Regression (KNN)](./4.%20Supervised%20Learning/4.1%20Regression/4.1.3%20Tree-Based%20and%20Neighbor-Based%20Regression/4.1.3.3%20K-Nearest%20Neighbors%20Regression%20(KNN).ipynb)
 
 ### [4.1.4 Advanced Regression Methods](./4.%20Supervised%20Learning/4.1%20Regression/4.1.4%20Advanced%20Regression%20Methods)
 
-- [Support Vector Regression (SVR)](<./4.%20Supervised%20Learning/4.1%20Regression/4.1.4%20Advanced%20Regression%20Methods/4.1.4.1%20Support%20Vector%20Regression%20(SVR).ipynb>)
+- [Support Vector Regression (SVR)](./4.%20Supervised%20Learning/4.1%20Regression/4.1.4%20Advanced%20Regression%20Methods/4.1.4.1%20Support%20Vector%20Regression%20(SVR).ipynb)
 - [Bayesian Regression](./4.%20Supervised%20Learning/4.1%20Regression/4.1.4%20Advanced%20Regression%20Methods/4.1.4.2%20Bayesian%20Regression.ipynb)
-- [Locally Weighted Linear Regression (LWLR)](<./4.%20Supervised%20Learning/4.1%20Regression/4.1.4%20Advanced%20Regression%20Methods/4.1.4.3%20Locally%20Weighted%20Linear%20Regression%20(LWLR).ipynb>)
+- [Locally Weighted Linear Regression (LWLR)](./4.%20Supervised%20Learning/4.1%20Regression/4.1.4%20Advanced%20Regression%20Methods/4.1.4.3%20Locally%20Weighted%20Linear%20Regression%20(LWLR).ipynb)
 
 ### [4.1.5 Dimensionality Reduction-Based Regression](./4.%20Supervised%20Learning/4.1%20Regression/4.1.5%20Dimensionality%20Reduction-Based%20Regression)
 
 - [Principal Component Regression (PCR)](./4.%20Supervised%20Learning/4.1%20Regression/4.1.5%20Dimensionality%20Reduction-Based%20Regression/4.1.5.1%20Principal%20Component%20Regression.ipynb)
-- [Partial Least Squares Regression (PLS)](<./4.%20Supervised%20Learning/4.1%20Regression/4.1.5%20Dimensionality%20Reduction-Based%20Regression/4.1.5.2%20Partial%20Least%20Squares%20Regression%20(PLS).ipynb>)
+- [Partial Least Squares Regression (PLS)](./4.%20Supervised%20Learning/4.1%20Regression/4.1.5%20Dimensionality%20Reduction-Based%20Regression/4.1.5.2%20Partial%20Least%20Squares%20Regression%20(PLS).ipynb)
 
 ## [4.2 Classification](./4.%20Supervised%20Learning/4.2%20Classification)
 
 ### [4.2.1 Basic Classification Models](./4.%20Supervised%20Learning/4.2%20Classification/4.2.1%20Basic%20Classification%20Models)
 
 - [Logistic Regression](./4.%20Supervised%20Learning/4.2%20Classification/4.2.1%20Basic%20Classification%20Models/4.2.1.1%20Logistic%20Regression.ipynb)
-- [K-Nearest Neighbors (KNN)](<./4.%20Supervised%20Learning/4.2%20Classification/4.2.1%20Basic%20Classification%20Models/4.2.1.2%20K-Nearest%20Neighbors%20(KNN).ipynb>)
+- [K-Nearest Neighbors (KNN)](./4.%20Supervised%20Learning/4.2%20Classification/4.2.1%20Basic%20Classification%20Models/4.2.1.2%20K-Nearest%20Neighbors%20(KNN).ipynb)
 - [Naive Bayes Classifier](./4.%20Supervised%20Learning/4.2%20Classification/4.2.1%20Basic%20Classification%20Models/4.2.1.3%20Naive%20Bayes%20Classifier.ipynb)
 
 ### [4.2.2 Tree-Based Classifiers](./4.%20Supervised%20Learning/4.2%20Classification/4.2.2%20Tree-Based%20Classifiers)
@@ -158,7 +158,7 @@ Welcome to the **Primer to Machine Learning** repository, a structured guide des
 
 ### [4.2.3 Advanced Classification Models](./4.%20Supervised%20Learning/4.2%20Classification/4.2.3%20Advanced%20Classification%20Models)
 
-- [Support Vector Machines (SVM)](<./4.%20Supervised%20Learning/4.2%20Classification/4.2.3%20Advanced%20Classification%20Models/4.2.3.1%20Support%20Vector%20Machines%20(SVM).ipynb>)
+- [Support Vector Machines (SVM)](./4.%20Supervised%20Learning/4.2%20Classification/4.2.3%20Advanced%20Classification%20Models/4.2.3.1%20Support%20Vector%20Machines%20(SVM).ipynb)
 - [Gradient Boosting (XGBoost, LightGBM, CatBoost)](./4.%20Supervised%20Learning/4.2%20Classification/4.2.3%20Advanced%20Classification%20Models/4.2.3.2%20Gradient%20Boosting.ipynb)
 
 ### [4.2.4 Neural and Ensemble Methods](./4.%20Supervised%20Learning/4.2%20Classification/4.2.4%20Neural%20and%20Ensemble%20Methods)
@@ -188,7 +188,7 @@ Welcome to the **Primer to Machine Learning** repository, a structured guide des
 ## [5.3 Model Validation Techniques](./5.%20Model%20Evaluation%20and%20Validation/5.3%20Model%20Validation%20Techniques)
 
 - [Train/Test Split](./5.%20Model%20Evaluation%20and%20Validation/5.3%20Model%20Validation%20Techniques/5.3.1%20Train-Test%20Split.ipynb)
-- [Leave-One-Out Cross-Validation (LOOCV)](<./5.%20Model%20Evaluation%20and%20Validation/5.3%20Model%20Validation%20Techniques/5.3.2%20Leave-One-Out%20Cross-Validation%20(LOOCV).ipynb>)
+- [Leave-One-Out Cross-Validation (LOOCV)](./5.%20Model%20Evaluation%20and%20Validation/5.3%20Model%20Validation%20Techniques/5.3.2%20Leave-One-Out%20Cross-Validation%20(LOOCV).ipynb)
 
 ## [5.4 Advanced Validation Techniques](./5.%20Model%20Evaluation%20and%20Validation/5.4%20Advanced%20Validation%20Techniques)
 
@@ -208,16 +208,16 @@ Welcome to the **Primer to Machine Learning** repository, a structured guide des
 
 - [K-Means Clustering](./6.%20Unsupervised%20Learning/6.1%20Clustering/6.1.1%20K-Means%20Clustering.ipynb)
 - [Hierarchical Clustering](./6.%20Unsupervised%20Learning/6.1%20Clustering/6.1.2%20Hierarchical%20Clustering.ipynb)
-- [DBSCAN](<./6.%20Unsupervised%20Learning/6.1%20Clustering/6.1.3%20DBSCAN%20(Density-Based%20Spatial%20Clustering%20of%20Applications%20with%20Noise).ipynb>)
+- [DBSCAN](./6.%20Unsupervised%20Learning/6.1%20Clustering/6.1.3%20DBSCAN%20(Density-Based%20Spatial%20Clustering%20of%20Applications%20with%20Noise).ipynb)
 - [Gaussian Mixture Models](./6.%20Unsupervised%20Learning/6.1%20Clustering/6.1.4%20Gaussian%20Mixture%20Models.ipynb)
 - [Spectral Clustering](./6.%20Unsupervised%20Learning/6.1%20Clustering/6.1.5%20Spectral%20Clustering.ipynb)
 
 ## [6.2 Dimensionality Reduction](./6.%20Unsupervised%20Learning/6.2%20Dimensionality%20Reduction)
 
-- [Principal Component Analysis (PCA)](<./6.%20Unsupervised%20Learning/6.2%20Dimensionality%20Reduction/6.2.1%20Principal%20Component%20Analysis%20(PCA).ipynb>)
-- [Linear Discriminant Analysis (LDA)](<./6.%20Unsupervised%20Learning/6.2%20Dimensionality%20Reduction/6.2.2%20Linear%20Discriminant%20Analysis%20(LDA).ipynb>)
-- [t-Distributed Stochastic Neighbor Embedding (t-SNE)](<./6.%20Unsupervised%20Learning/6.2%20Dimensionality%20Reduction/6.2.3%20t-Distributed%20Stochastic%20Neighbor%20Embedding%20(t-SNE).ipynb>)
-- [Independent Component Analysis (ICA)](<./6.%20Unsupervised%20Learning/6.2%20Dimensionality%20Reduction/6.2.4%20Independent%20Component%20Analysis%20(ICA).ipynb>)
+- [Principal Component Analysis (PCA)](./6.%20Unsupervised%20Learning/6.2%20Dimensionality%20Reduction/6.2.1%20Principal%20Component%20Analysis%20(PCA).ipynb)
+- [Linear Discriminant Analysis (LDA)](./6.%20Unsupervised%20Learning/6.2%20Dimensionality%20Reduction/6.2.2%20Linear%20Discriminant%20Analysis%20(LDA).ipynb)
+- [t-Distributed Stochastic Neighbor Embedding (t-SNE)](./6.%20Unsupervised%20Learning/6.2%20Dimensionality%20Reduction/6.2.3%20t-Distributed%20Stochastic%20Neighbor%20Embedding%20(t-SNE).ipynb)
+- [Independent Component Analysis (ICA)](./6.%20Unsupervised%20Learning/6.2%20Dimensionality%20Reduction/6.2.4%20Independent%20Component%20Analysis%20(ICA).ipynb)
 - [Autoencoders](./6.%20Unsupervised%20Learning/6.2%20Dimensionality%20Reduction/6.2.5%20Autoencoders.ipynb)
 
 ## [6.3 Association Rule Learning](./6.%20Unsupervised%20Learning/6.3%20Association%20Rule%20Learning)
@@ -246,21 +246,21 @@ Welcome to the **Primer to Machine Learning** repository, a structured guide des
 - [Batch Normalization](./7.%20Neural%20Networks%20and%20Deep%20Learning/7.2%20Training%20Techniques/7.2.2%20Batch%20Normalization.ipynb)
 - [Dropout](./7.%20Neural%20Networks%20and%20Deep%20Learning/7.2%20Training%20Techniques/7.2.3%20Dropout.ipynb)
 
-## [7.3 Convolutional Neural Networks (CNN)](<./7.%20Neural%20Networks%20and%20Deep%20Learning/7.3%20Convolutional%20Neural%20Networks%20(CNN)>)
+## [7.3 Convolutional Neural Networks (CNN)](./7.%20Neural%20Networks%20and%20Deep%20Learning/7.3%20Convolutional%20Neural%20Networks%20(CNN))
 
-- [Basic CNN](<./7.%20Neural%20Networks%20and%20Deep%20Learning/7.3%20Convolutional%20Neural%20Networks%20(CNN)/7.3.1%20Basic%20CNN.ipynb>)
-- [Advanced CNN Architectures](<./7.%20Neural%20Networks%20and%20Deep%20Learning/7.3%20Convolutional%20Neural%20Networks%20(CNN)/7.3.2%20Advanced%20CNN%20Architectures.ipynb>)
+- [Basic CNN](./7.%20Neural%20Networks%20and%20Deep%20Learning/7.3%20Convolutional%20Neural%20Networks%20(CNN)/7.3.1%20Basic%20CNN.ipynb)
+- [Advanced CNN Architectures](./7.%20Neural%20Networks%20and%20Deep%20Learning/7.3%20Convolutional%20Neural%20Networks%20(CNN)/7.3.2%20Advanced%20CNN%20Architectures.ipynb)
 
-## [7.4 Recurrent Neural Networks (RNN)](<./7.%20Neural%20Networks%20and%20Deep%20Learning/7.4%20Recurrent%20Neural%20Networks%20(RNN)>)
+## [7.4 Recurrent Neural Networks (RNN)](./7.%20Neural%20Networks%20and%20Deep%20Learning/7.4%20Recurrent%20Neural%20Networks%20(RNN))
 
-- [Basic RNN](<./7.%20Neural%20Networks%20and%20Deep%20Learning/7.4%20Recurrent%20Neural%20Networks%20(RNN)/7.4.1%20Basic%20RNN.ipynb>)
-- [Long Short-Term Memory (LSTM)](<./7.%20Neural%20Networks%20and%20Deep%20Learning/7.4%20Recurrent%20Neural%20Networks%20(RNN)/7.4.2%20Long%20Short-Term%20Memory%20(LSTM).ipynb>)
-- [Gated Recurrent Unit (GRU)](<./7.%20Neural%20Networks%20and%20Deep%20Learning/7.4%20Recurrent%20Neural%20Networks%20(RNN)/7.4.3%20Gated%20Recurrent%20Unit%20(GRU).ipynb>)
+- [Basic RNN](./7.%20Neural%20Networks%20and%20Deep%20Learning/7.4%20Recurrent%20Neural%20Networks%20(RNN)/7.4.1%20Basic%20RNN.ipynb)
+- [Long Short-Term Memory (LSTM)](./7.%20Neural%20Networks%20and%20Deep%20Learning/7.4%20Recurrent%20Neural%20Networks%20(RNN)/7.4.2%20Long%20Short-Term%20Memory%20(LSTM).ipynb)
+- [Gated Recurrent Unit (GRU)](./7.%20Neural%20Networks%20and%20Deep%20Learning/7.4%20Recurrent%20Neural%20Networks%20(RNN)/7.4.3%20Gated%20Recurrent%20Unit%20(GRU).ipynb)
 
 ## [7.5 Generative Models](./7.%20Neural%20Networks%20and%20Deep%20Learning/7.5%20Generative%20Models)
 
-- [Generative Adversarial Networks (GAN)](<./7.%20Neural%20Networks%20and%20Deep%20Learning/7.5%20Generative%20Models/7.5.1%20Generative%20Adversarial%20Networks%20(GAN).ipynb>)
-- [Variational Autoencoders (VAE)](<./7.%20Neural%20Networks%20and%20Deep%20Learning/7.5%20Generative%20Models/7.5.2%20Variational%20Autoencoders%20(VAE).ipynb>)
+- [Generative Adversarial Networks (GAN)](./7.%20Neural%20Networks%20and%20Deep%20Learning/7.5%20Generative%20Models/7.5.1%20Generative%20Adversarial%20Networks%20(GAN).ipynb)
+- [Variational Autoencoders (VAE)](./7.%20Neural%20Networks%20and%20Deep%20Learning/7.5%20Generative%20Models/7.5.2%20Variational%20Autoencoders%20(VAE).ipynb)
 
 ### Suggested Introductory Resources
 
@@ -269,27 +269,27 @@ Welcome to the **Primer to Machine Learning** repository, a structured guide des
 
 ---
 
-# [8. Natural Language Processing (NLP)](<./8.%20Natural%20Language%20Processing%20(NLP)>)
+# [8. Natural Language Processing (NLP)](./8.%20Natural%20Language%20Processing%20(NLP))
 
-## [8.1 Text Preprocessing](<./8.%20Natural%20Language%20Processing%20(NLP)/8.1%20Text%20Preprocessing>)
+## [8.1 Text Preprocessing](./8.%20Natural%20Language%20Processing%20(NLP)/8.1%20Text%20Preprocessing)
 
 - [Tokenization](./8.%20Natural%20Language%20Processing%20(NLP)/8.1%20Text%20Preprocessing/8.1.1%20Tokenization.ipynb)
 - [Stemming and Lemmatization](./8.%20Natural%20Language%20Processing%20(NLP)/8.1%20Text%20Preprocessing/8.1.2%20Stemming%20and%20Lemmatizatio.ipynb)
-- [Stop Words Removal](<./8.%20Natural%20Language%20Processing%20(NLP)/8.1%20Text%20Preprocessing/8.1.3%20Stop%20Words%20Removal.ipynb>)
+- [Stop Words Removal](./8.%20Natural%20Language%20Processing%20(NLP)/8.1%20Text%20Preprocessing/8.1.3%20Stop%20Words%20Removal.ipynb)
 
-## [8.2 Text Representation](<./8.%20Natural%20Language%20Processing%20(NLP)/8.2%20Text%20Representation>)
+## [8.2 Text Representation](./8.%20Natural%20Language%20Processing%20(NLP)/8.2%20Text%20Representation)
 
-- [Bag-of-Words (BoW)](<./8.%20Natural%20Language%20Processing%20(NLP)/8.2%20Text%20Representation/8.2.1%20Bag-of-Words%20(BoW).ipynb>)
-- [TF-IDF](<./8.%20Natural%20Language%20Processing%20(NLP)/8.2%20Text%20Representation/8.2.2%20TF-IDF.ipynb>)
-- [Word2Vec](<./8.%20Natural%20Language%20Processing%20(NLP)/8.2%20Text%20Representation/8.2.3%20Word2Vec.ipynb>)
-- [GloVe](<./8.%20Natural%20Language%20Processing%20(NLP)/8.2%20Text%20Representation/8.2.4%20GloVe.ipynb>)
+- [Bag-of-Words (BoW)](./8.%20Natural%20Language%20Processing%20(NLP)/8.2%20Text%20Representation/8.2.1%20Bag-of-Words%20(BoW).ipynb)
+- [TF-IDF](./8.%20Natural%20Language%20Processing%20(NLP)/8.2%20Text%20Representation/8.2.2%20TF-IDF.ipynb)
+- [Word2Vec](./8.%20Natural%20Language%20Processing%20(NLP)/8.2%20Text%20Representation/8.2.3%20Word2Vec.ipynb)
+- [GloVe](./8.%20Natural%20Language%20Processing%20(NLP)/8.2%20Text%20Representation/8.2.4%20GloVe.ipynb)
 
-## [8.3 Language Models](<./8.%20Natural%20Language%20Processing%20(NLP)/8.3%20Language%20Models>)
+## [8.3 Language Models](./8.%20Natural%20Language%20Processing%20(NLP)/8.3%20Language%20Models)
 
-- [N-grams](<./8.%20Natural%20Language%20Processing%20(NLP)/8.3%20Language%20Models/8.3.1%20N-grams.ipynb>)
+- [N-grams](./8.%20Natural%20Language%20Processing%20(NLP)/8.3%20Language%20Models/8.3.1%20N-grams.ipynb)
 - [Recurrent Neural Network Language Model](./8.%20Natural%20Language%20Processing%20(NLP)/8.320Language%20Models/8.3.2%20Recurrent%20Neural%20Network%20Language%20Model.ipynb)
-- [Transformer Models](<./8.%20Natural%20Language%20Processing%20(NLP)/8.3%20Language%20Models/8.3.3%20Transformer%20Models.ipynb>)
-- [BERT](<./8.%20Natural%20Language%20Processing%20(NLP)/8.3%20Language%20Models/8.3.4%20BERT.ipynb>)
+- [Transformer Models](./8.%20Natural%20Language%20Processing%20(NLP)/8.3%20Language%20Models/8.3.3%20Transformer%20Models.ipynb)
+- [BERT](./8.%20Natural%20Language%20Processing%20(NLP)/8.3%20Language%20Models/8.3.4%20BERT.ipynb)
 
 ### Suggested Introductory Resources
 
@@ -302,7 +302,7 @@ Welcome to the **Primer to Machine Learning** repository, a structured guide des
 
 ## [9.1 Time Series Decomposition](./9.%20Time%20Series%20Analysis/9.1%20Time%20Series%20Decomposition)
 
-- [Seasonal Decomposition of Time Series (STL)](<./9.%20Time%20Series%20Analysis/9.1%20Time%20Series%20Decomposition/9.1.1%20Seasonal%20Decomposition%20of%20Time%20Series%20(STL).ipynb>)
+- [Seasonal Decomposition of Time Series (STL)](./9.%20Time%20Series%20Analysis/9.1%20Time%20Series%20Decomposition/9.1.1%20Seasonal%20Decomposition%20of%20Time%20Series%20(STL).ipynb)
 
 ## [9.2 Smoothing Techniques](./9.%20Time%20Series%20Analysis/9.2%20Smoothing%20Techniques)
 
@@ -345,13 +345,13 @@ Welcome to the **Primer to Machine Learning** repository, a structured guide des
 
 ## [10.4 Temporal Difference Learning](./10.%20Reinforcement%20Learning/10.4%20Temporal%20Difference%20Learning)
 
-- [TD(0) Prediction](<./10.%20Reinforcement%20Learning/10.4%20Temporal%20Difference%20Learning/10.4.1%20TD(0)%20Prediction.ipynb>)
-- [SARSA (State-Action-Reward-State-Action)](<./10.%20Reinforcement%20Learning/10.4%20Temporal%20Difference%20Learning/10.4.2%20SARSA%20(State-Action-Reward-State-Action).ipynb>)
+- [TD(0) Prediction](./10.%20Reinforcement%20Learning/10.4%20Temporal%20Difference%20Learning/10.4.1%20TD(0)%20Prediction.ipynb)
+- [SARSA (State-Action-Reward-State-Action)](./10.%20Reinforcement%20Learning/10.4%20Temporal%20Difference%20Learning/10.4.2%20SARSA%20(State-Action-Reward-State-Action).ipynb)
 - [Q-Learning](./10.%20Reinforcement%20Learning/10.4%20Temporal%20Difference%20Learning/10.4.3%20Q-Learning.ipynb)
 
 ## [10.5 Advanced Methods](./10.%20Reinforcement%20Learning/10.5%20Advanced%20Methods)
 
-- [Deep Q-Networks (DQN)](<./10.%20Reinforcement%20Learning/10.5%20Advanced%20Methods/10.5.1%20Deep%20Q-Networks%20(DQN).ipynb>)
+- [Deep Q-Networks (DQN)](./10.%20Reinforcement%20Learning/10.5%20Advanced%20Methods/10.5.1%20Deep%20Q-Networks%20(DQN).ipynb)
 - [Policy Gradient Methods](./10.%20Reinforcement%20Learning/10.5%20Advanced%20Methods/10.5.2%20Policy%20Gradient%20Methods.ipynb)
 - [Actor-Critic Methods](./10.%20Reinforcement%20Learning/10.5%20Advanced%20Methods/10.5.3%20Actor-Critic%20Methods.ipynb)
 
